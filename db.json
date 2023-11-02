@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "customer": [
+    {"id":1, "name": "joe"},
+    {"id":2, "name": "john"},
+    {"id":3, "name": "boy"},
+  ]
 }
